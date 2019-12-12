@@ -1,0 +1,63 @@
+<h1>MARIPOSAZUL</h1>
+
+
+
+<div class="informacion-fabricante">
+
+<div class="image-logo"><img src="https://ferias.sebime.org/uploads/p-orl80ib8.jpg" /></div>
+
+
+
+ 
+    
+  <div class="etiqueta"><span>Export Manager:</span>
+  <div class="valor">Sra.Carolina Pacheco&nbsp;</div></div>
+
+        
+  <div class="etiqueta"><span>Brand Names:</span>
+  <div class="valor">MARIPOSAZUL&nbsp;</div></div>
+
+    
+  <div class="etiqueta"><span>Products:</span>
+  <div class="valor">Fashion Jewellery&nbsp;</div></div>
+ 
+
+        
+  <div class="etiqueta"><span>International Fairs:</span>
+  <div class="valor">BISUTEX&nbsp;</div></div>
+ 
+       
+  <div class="etiqueta"><span>Address:</span>
+  <div class="valor">PASEO MAR&Iacute;TIMO 26&nbsp;</div></div>
+ 
+   
+  <div class="etiqueta"><span>City:</span>
+  <div class="valor">08860 - Castelldefels&nbsp;</div></div>
+ 
+                      
+  <div class="etiqueta"><span>Province:</span>
+  <div class="valor">Barcelona&nbsp;</div></div>
+ 
+   
+  <div class="etiqueta"><span>Country:</span>
+  <div class="valor">SPAIN&nbsp;</div></div>
+
+        
+  <div class="etiqueta"><span>Tel.:</span>
+  <div class="valor">+34 616 474 205&nbsp;</div></div>
+ 
+ 
+   
+  <div class="etiqueta"><span>Email:</span>
+  <div class="valor"><a href="mailto:info@mariposazul.es">info@mariposazul.es</a>&nbsp;</div></div>
+
+    
+  <div class="etiqueta"><span>Web:</span>
+  <div class="valor"><a href="https://www.facebook.com/mariposazul.es/">https://www.facebook.com/mariposazul.es/</a>&nbsp;
+</div></div>
+
+
+        
+ <div class="clearer"></div>
+</div>
+   

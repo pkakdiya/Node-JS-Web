@@ -1,0 +1,63 @@
+<h1>ELGAR HEBILLAS COMPLEMENTOS,S.L.</h1>
+
+
+
+<div class="informacion-fabricante">
+
+<div class="image-logo"><img src="https://ferias.sebime.org/uploads/p-pbcblqxa.jpg" /></div>
+
+
+
+ 
+    
+  <div class="etiqueta"><span>Export Manager:</span>
+  <div class="valor">Sr.Juan S&aacute;nchez&nbsp;</div></div>
+
+
+    
+  <div class="etiqueta"><span>Products:</span>
+  <div class="valor">Findings and Fashion Jewellery&nbsp;</div></div>
+ 
+
+        
+  <div class="etiqueta"><span>International Fairs:</span>
+  <div class="valor">BIJORHCA&nbsp;</div></div>
+ 
+       
+  <div class="etiqueta"><span>Address:</span>
+  <div class="valor">Partida de Carrus, 662&nbsp;</div></div>
+ 
+   
+  <div class="etiqueta"><span>City:</span>
+  <div class="valor">03205 - ELCHE&nbsp;</div></div>
+ 
+                      
+  <div class="etiqueta"><span>Province:</span>
+  <div class="valor">ALICANTE&nbsp;</div></div>
+ 
+   
+  <div class="etiqueta"><span>Country:</span>
+  <div class="valor">SPAIN&nbsp;</div></div>
+
+        
+  <div class="etiqueta"><span>Tel.:</span>
+  <div class="valor">+34 966 662 040&nbsp;</div></div>
+ 
+   
+  <div class="etiqueta"><span>Fax:</span>
+  <div class="valor">+34 966 660 749&nbsp;</div></div>
+ 
+   
+  <div class="etiqueta"><span>Email:</span>
+  <div class="valor"><a href="mailto:fgarcia@elgar.es">fgarcia@elgar.es</a>&nbsp;</div></div>
+
+    
+  <div class="etiqueta"><span>Web:</span>
+  <div class="valor"><a href="http://www.elgar.es">http://www.elgar.es</a>&nbsp;
+</div></div>
+
+
+        
+ <div class="clearer"></div>
+</div>
+         

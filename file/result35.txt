@@ -1,0 +1,69 @@
+<h1>FORNITURAS Y COMPONENTES - LA VIEJA MINA,S.L.</h1>
+
+
+
+<div class="informacion-fabricante">
+
+<div class="image-logo"><img src="https://ferias.sebime.org/uploads/p-pr9yxo7l.jpg" /></div>
+
+  <div class="etiqueta"><span>Foundation Date:</span>
+  <div class="valor">2004&nbsp;</div></div>
+
+  <div class="etiqueta"><span>Number of employees:</span>
+  <div class="valor">10&nbsp;</div></div>
+
+  
+  <div class="etiqueta"><span>Manager:</span>
+  <div class="valor">Sra.Mar&iacute;a Teresa D&iacute;az Santiago&nbsp;</div></div>
+
+    
+  <div class="etiqueta"><span>Export Manager:</span>
+  <div class="valor">Sra.Mar&iacute;a Teresa D&iacute;az&nbsp;</div></div>
+
+
+    
+  <div class="etiqueta"><span>Products:</span>
+  <div class="valor">Findings for Fashion Jewellery and Accessories&nbsp;</div></div>
+ 
+       
+  <div class="etiqueta"><span>Materials:</span>
+  <div class="valor">Sterling Silver and Gold Plated Silver&nbsp;</div></div>
+
+        
+  <div class="etiqueta"><span>International Fairs:</span>
+  <div class="valor">BIJORHCA, MADRIDJOYA&nbsp;</div></div>
+ 
+       
+  <div class="etiqueta"><span>Address:</span>
+  <div class="valor">C/Aduana,13 (Esquina Calle Montera)&nbsp;</div></div>
+ 
+   
+  <div class="etiqueta"><span>City:</span>
+  <div class="valor">28013 - MADRID&nbsp;</div></div>
+ 
+                      
+  <div class="etiqueta"><span>Province:</span>
+  <div class="valor">MADRID&nbsp;</div></div>
+ 
+   
+  <div class="etiqueta"><span>Country:</span>
+  <div class="valor">SPAIN&nbsp;</div></div>
+
+        
+  <div class="etiqueta"><span>Tel.:</span>
+  <div class="valor">+34 915 222 502&nbsp;</div></div>
+ 
+ 
+   
+  <div class="etiqueta"><span>Email:</span>
+  <div class="valor"><a href="mailto:info@forniturasycomponentes.com">info@forniturasycomponentes.com</a>&nbsp;</div></div>
+
+    
+  <div class="etiqueta"><span>Web:</span>
+  <div class="valor"><a href="http://www.forniturasycomponentes.com">http://www.forniturasycomponentes.com</a>&nbsp;
+</div></div>
+
+
+        
+ <div class="clearer"></div>
+</div>

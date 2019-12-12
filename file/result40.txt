@@ -1,0 +1,66 @@
+<h1>INBIME - Mahón</h1>
+
+
+
+<div class="informacion-fabricante">
+
+<div class="image-logo"><img src="https://ferias.sebime.org/uploads/p-n6a4047x.jpg" /></div>
+
+  <div class="etiqueta"><span>Foundation Date:</span>
+  <div class="valor">1949&nbsp;</div></div>
+
+  <div class="etiqueta"><span>Number of employees:</span>
+  <div class="valor">5&nbsp;</div></div>
+
+  
+  <div class="etiqueta"><span>Manager:</span>
+  <div class="valor">Sr. Juan Jos&eacute; Gomila F&eacute;lix&nbsp;</div></div>
+
+
+        
+  <div class="etiqueta"><span>Brand Names:</span>
+  <div class="valor">INBIME&nbsp;</div></div>
+
+ 
+
+        
+  <div class="etiqueta"><span>International Fairs:</span>
+  <div class="valor">BISUTEX&nbsp;</div></div>
+ 
+       
+  <div class="etiqueta"><span>Address:</span>
+  <div class="valor">C/Bajoli, 11 - Poima&nbsp;</div></div>
+ 
+   
+  <div class="etiqueta"><span>City:</span>
+  <div class="valor">07714 - Mah&oacute;n - Menorca&nbsp;</div></div>
+ 
+                      
+  <div class="etiqueta"><span>Province:</span>
+  <div class="valor">Baleares&nbsp;</div></div>
+ 
+   
+  <div class="etiqueta"><span>Country:</span>
+  <div class="valor">SPAIN&nbsp;</div></div>
+
+        
+  <div class="etiqueta"><span>Tel.:</span>
+  <div class="valor">+34 971364436&nbsp;</div></div>
+ 
+   
+  <div class="etiqueta"><span>Fax:</span>
+  <div class="valor">34-971 364 436&nbsp;</div></div>
+ 
+   
+  <div class="etiqueta"><span>Email:</span>
+  <div class="valor"><a href="mailto:info@inbime.com">info@inbime.com</a>&nbsp;</div></div>
+
+    
+  <div class="etiqueta"><span>Web:</span>
+  <div class="valor"><a href="http://www.inbime.com">http://www.inbime.com</a>&nbsp;
+</div></div>
+
+
+        
+ <div class="clearer"></div>
+</div>

@@ -1,0 +1,56 @@
+<h1>EMOLO FEEL S.L.</h1>
+
+
+
+<div class="informacion-fabricante">
+
+<div class="image-logo"><img src="https://ferias.sebime.org/uploads/p-pqkgl788.jpg" /></div>
+
+
+
+  
+  <div class="etiqueta"><span>Manager:</span>
+  <div class="valor">SRA.FUENSANTA LORENZO&nbsp;</div></div>
+
+
+
+    
+  <div class="etiqueta"><span>Products:</span>
+  <div class="valor">Fashion jewellery&nbsp;</div></div>
+ 
+
+
+       
+  <div class="etiqueta"><span>Address:</span>
+  <div class="valor">Ctra. Madrid-Cartagena, 26&nbsp;</div></div>
+ 
+   
+  <div class="etiqueta"><span>City:</span>
+  <div class="valor">30120 - El Palmar&nbsp;</div></div>
+ 
+                      
+  <div class="etiqueta"><span>Province:</span>
+  <div class="valor">Murcia&nbsp;</div></div>
+ 
+   
+  <div class="etiqueta"><span>Country:</span>
+  <div class="valor">SPAIN&nbsp;</div></div>
+
+        
+  <div class="etiqueta"><span>Tel.:</span>
+  <div class="valor">676457742&nbsp;</div></div>
+ 
+ 
+   
+  <div class="etiqueta"><span>Email:</span>
+  <div class="valor"><a href="mailto:info@emolo.es">info@emolo.es</a>&nbsp;</div></div>
+
+    
+  <div class="etiqueta"><span>Web:</span>
+  <div class="valor"><a href="http://www.emolo.es">http://www.emolo.es</a>&nbsp;
+</div></div>
+
+
+        
+ <div class="clearer"></div>
+</div>

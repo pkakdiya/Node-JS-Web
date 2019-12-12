@@ -1,0 +1,70 @@
+<h1>MARISOL ARNAU MARROQUINERIA Y COMPLEMENTOS,S.L.</h1>
+
+
+
+<div class="informacion-fabricante">
+
+
+
+
+  
+  <div class="etiqueta"><span>Manager:</span>
+  <div class="valor">Sra.Marisol Arnau&nbsp;</div></div>
+
+    
+  <div class="etiqueta"><span>Export Manager:</span>
+  <div class="valor">Sr.Jos&eacute; Mar&iacute;a Hern&aacute;ndez&nbsp;</div></div>
+
+        
+  <div class="etiqueta"><span>Brand Names:</span>
+  <div class="valor">MARISOL ARNAU&nbsp;</div></div>
+
+    
+  <div class="etiqueta"><span>Products:</span>
+  <div class="valor">Fashion Jewellery&nbsp;</div></div>
+ 
+       
+  <div class="etiqueta"><span>Materials:</span>
+  <div class="valor">Metal and leather&nbsp;</div></div>
+
+        
+  <div class="etiqueta"><span>International Fairs:</span>
+  <div class="valor">HOMI Mil&aacute;n&nbsp;</div></div>
+ 
+       
+  <div class="etiqueta"><span>Address:</span>
+  <div class="valor">C/Alberto Sols, 32 Elche Parque Industrial&nbsp;</div></div>
+ 
+   
+  <div class="etiqueta"><span>City:</span>
+  <div class="valor">03203 - Torrellano-Elche&nbsp;</div></div>
+ 
+                      
+  <div class="etiqueta"><span>Province:</span>
+  <div class="valor">Alicante&nbsp;</div></div>
+ 
+   
+  <div class="etiqueta"><span>Country:</span>
+  <div class="valor">SPAIN&nbsp;</div></div>
+
+        
+  <div class="etiqueta"><span>Tel.:</span>
+  <div class="valor">+34 965 681 454&nbsp;</div></div>
+ 
+   
+  <div class="etiqueta"><span>Fax:</span>
+  <div class="valor">+34 965 681 455&nbsp;</div></div>
+ 
+   
+  <div class="etiqueta"><span>Email:</span>
+  <div class="valor"><a href="mailto:info@marisolarnau.com">info@marisolarnau.com</a>&nbsp;</div></div>
+
+    
+  <div class="etiqueta"><span>Web:</span>
+  <div class="valor"><a href="http://www.marisolarnau.com">http://www.marisolarnau.com</a>&nbsp;
+</div></div>
+
+
+        
+ <div class="clearer"></div>
+</div>

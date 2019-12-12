@@ -1,0 +1,58 @@
+<h1>UIA BARCELONA</h1>
+
+
+
+<div class="informacion-fabricante">
+
+
+
+
+ 
+    
+  <div class="etiqueta"><span>Export Manager:</span>
+  <div class="valor">Sra.Nuria Bacardit Salas&nbsp;</div></div>
+
+
+    
+  <div class="etiqueta"><span>Products:</span>
+  <div class="valor">Fashion Jewellery&nbsp;</div></div>
+ 
+
+        
+  <div class="etiqueta"><span>International Fairs:</span>
+  <div class="valor">PREMIERE CLASSE&nbsp;</div></div>
+ 
+       
+  <div class="etiqueta"><span>Address:</span>
+  <div class="valor">C/Salmer&oacute;n, 20,2-1&nbsp;</div></div>
+ 
+   
+  <div class="etiqueta"><span>City:</span>
+  <div class="valor">08222 - BARCELONA&nbsp;</div></div>
+ 
+                      
+  <div class="etiqueta"><span>Province:</span>
+  <div class="valor">BARCELONA&nbsp;</div></div>
+ 
+   
+  <div class="etiqueta"><span>Country:</span>
+  <div class="valor">SPAIN&nbsp;</div></div>
+
+        
+  <div class="etiqueta"><span>Tel.:</span>
+  <div class="valor">+34 680 326 853&nbsp;</div></div>
+ 
+ 
+   
+  <div class="etiqueta"><span>Email:</span>
+  <div class="valor"><a href="mailto:uia@uia-barcelona.com">uia@uia-barcelona.com</a>&nbsp;</div></div>
+
+    
+  <div class="etiqueta"><span>Web:</span>
+  <div class="valor"><a href="http://www.uia-barcelona.com">http://www.uia-barcelona.com</a>&nbsp;
+</div></div>
+
+
+        
+ <div class="clearer"></div>
+</div>

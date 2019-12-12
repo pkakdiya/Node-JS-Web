@@ -1,0 +1,60 @@
+<h1>SUSI BLASCO</h1>
+
+
+
+<div class="informacion-fabricante">
+
+<div class="image-logo"><img src="https://ferias.sebime.org/uploads/p-pqkfhrh3.jpg" /></div>
+
+
+
+  
+  <div class="etiqueta"><span>Manager:</span>
+  <div class="valor">SRA.ASUNCION BLASCO&nbsp;</div></div>
+
+
+
+    
+  <div class="etiqueta"><span>Products:</span>
+  <div class="valor">Fashion jewellery&nbsp;</div></div>
+ 
+
+
+       
+  <div class="etiqueta"><span>Address:</span>
+  <div class="valor">C/. FILET DE FORA, 68 - 2&ordm;&nbsp;</div></div>
+ 
+   
+  <div class="etiqueta"><span>City:</span>
+  <div class="valor">03203 - Elche&nbsp;</div></div>
+ 
+                      
+  <div class="etiqueta"><span>Province:</span>
+  <div class="valor">Alicante&nbsp;</div></div>
+ 
+   
+  <div class="etiqueta"><span>Country:</span>
+  <div class="valor">SPAIN&nbsp;</div></div>
+
+        
+  <div class="etiqueta"><span>Tel.:</span>
+  <div class="valor">+34 965438414&nbsp;</div></div>
+ 
+   
+  <div class="etiqueta"><span>Fax:</span>
+  <div class="valor">+34 965438414&nbsp;</div></div>
+ 
+   
+  <div class="etiqueta"><span>Email:</span>
+  <div class="valor"><a href="mailto:susiblasco56@gmail.com">susiblasco56@gmail.com</a>&nbsp;</div></div>
+
+    
+  <div class="etiqueta"><span>Web:</span>
+  <div class="valor"><a href="http://www.susiblasco.com">http://www.susiblasco.com</a>&nbsp;
+</div></div>
+
+
+        
+ <div class="clearer"></div>
+</div>
+ 

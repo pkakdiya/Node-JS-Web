@@ -1,0 +1,63 @@
+<h1>FUS BALEAR DISSENY,S.L.</h1>
+
+
+
+<div class="informacion-fabricante">
+
+<div class="image-logo"><img src="https://ferias.sebime.org/uploads/p-n69zogbd.jpg" /></div>
+
+  <div class="etiqueta"><span>Foundation Date:</span>
+  <div class="valor">1993&nbsp;</div></div>
+
+  <div class="etiqueta"><span>Number of employees:</span>
+  <div class="valor">3&nbsp;</div></div>
+
+  
+  <div class="etiqueta"><span>Manager:</span>
+  <div class="valor">Sr. Enrique Romero Andreu&nbsp;</div></div>
+
+    
+  <div class="etiqueta"><span>Export Manager:</span>
+  <div class="valor">Sr. Juan Romero Andreu&nbsp;</div></div>
+
+
+ 
+
+
+       
+  <div class="etiqueta"><span>Address:</span>
+  <div class="valor">Avinguda des Castell, 8 - Poligono Industrial&nbsp;</div></div>
+ 
+   
+  <div class="etiqueta"><span>City:</span>
+  <div class="valor">07720 - Es Castell. Menorca&nbsp;</div></div>
+ 
+                      
+  <div class="etiqueta"><span>Province:</span>
+  <div class="valor">Baleares&nbsp;</div></div>
+ 
+   
+  <div class="etiqueta"><span>Country:</span>
+  <div class="valor">SPAIN&nbsp;</div></div>
+
+        
+  <div class="etiqueta"><span>Tel.:</span>
+  <div class="valor">+34 971353382&nbsp;</div></div>
+ 
+   
+  <div class="etiqueta"><span>Fax:</span>
+  <div class="valor">34-971363796&nbsp;</div></div>
+ 
+   
+  <div class="etiqueta"><span>Email:</span>
+  <div class="valor"><a href="mailto:fus_balear@telefonica.net">fus_balear@telefonica.net</a>&nbsp;</div></div>
+
+    
+  <div class="etiqueta"><span>Web:</span>
+  <div class="valor"><a href="http://www.fusbaleardissenys.com">http://www.fusbaleardissenys.com</a>&nbsp;
+</div></div>
+
+
+        
+ <div class="clearer"></div>
+</div>

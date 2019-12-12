@@ -1,0 +1,69 @@
+<h1>DIORITA,S.L.</h1>
+
+
+
+<div class="informacion-fabricante">
+
+<div class="image-logo"><img src="https://ferias.sebime.org/uploads/p-pbnf9lku.jpg" /></div>
+
+  <div class="etiqueta"><span>Foundation Date:</span>
+  <div class="valor">1993&nbsp;</div></div>
+
+  <div class="etiqueta"><span>Number of employees:</span>
+  <div class="valor">5&nbsp;</div></div>
+
+  
+  <div class="etiqueta"><span>Manager:</span>
+  <div class="valor">Sra.Margarita Badillo&nbsp;</div></div>
+
+    
+  <div class="etiqueta"><span>Export Manager:</span>
+  <div class="valor">Sra.Margarita Badillo&nbsp;</div></div>
+
+        
+  <div class="etiqueta"><span>Brand Names:</span>
+  <div class="valor">DIORITA&nbsp;</div></div>
+
+    
+  <div class="etiqueta"><span>Products:</span>
+  <div class="valor">Fashion Jewellery&nbsp;</div></div>
+ 
+
+        
+  <div class="etiqueta"><span>International Fairs:</span>
+  <div class="valor">BIJORHCA&nbsp;</div></div>
+ 
+       
+  <div class="etiqueta"><span>Address:</span>
+  <div class="valor">C/Goya, 77&nbsp;</div></div>
+ 
+   
+  <div class="etiqueta"><span>City:</span>
+  <div class="valor">28001 - Madrid&nbsp;</div></div>
+ 
+                      
+  <div class="etiqueta"><span>Province:</span>
+  <div class="valor">Madrid&nbsp;</div></div>
+ 
+   
+  <div class="etiqueta"><span>Country:</span>
+  <div class="valor">SPAIN&nbsp;</div></div>
+
+        
+  <div class="etiqueta"><span>Tel.:</span>
+  <div class="valor">+34 914 313 032&nbsp;</div></div>
+ 
+ 
+   
+  <div class="etiqueta"><span>Email:</span>
+  <div class="valor"><a href="mailto:diorita@diorita.es">diorita@diorita.es</a>&nbsp;</div></div>
+
+    
+  <div class="etiqueta"><span>Web:</span>
+  <div class="valor"><a href="http://www.diorita.com">http://www.diorita.com</a>&nbsp;
+</div></div>
+
+
+        
+ <div class="clearer"></div>
+</div>

@@ -1,0 +1,68 @@
+<h1>RAS 17, S.L.</h1>
+
+
+
+<div class="informacion-fabricante">
+
+<div class="image-logo"><img src="https://ferias.sebime.org/uploads/p-pqqdxlys.jpg" /></div>
+
+
+
+  
+  <div class="etiqueta"><span>Manager:</span>
+  <div class="valor">Sr. Frc. Ignacio Simon Garcia&nbsp;</div></div>
+
+    
+  <div class="etiqueta"><span>Export Manager:</span>
+  <div class="valor">Sra. Silvia Simon Garcia&nbsp;</div></div>
+
+        
+  <div class="etiqueta"><span>Brand Names:</span>
+  <div class="valor">RAS&nbsp;</div></div>
+
+    
+  <div class="etiqueta"><span>Products:</span>
+  <div class="valor">Fashion Jewellery, Fashion Accessories, Personalized Gifts, Souvenirs&nbsp;</div></div>
+ 
+       
+  <div class="etiqueta"><span>Materials:</span>
+  <div class="valor">Brass, steel, aluminum and synthetic, PVC, Wood&nbsp;</div></div>
+
+        
+  <div class="etiqueta"><span>International Fairs:</span>
+  <div class="valor">BISUTEX, BIJORHCA PARIS, MAISON&amp;OBJET, AMBIENTE, NYNOW&nbsp;</div></div>
+ 
+       
+  <div class="etiqueta"><span>Address:</span>
+  <div class="valor">C/Torrecilla, 8&nbsp;</div></div>
+ 
+   
+  <div class="etiqueta"><span>City:</span>
+  <div class="valor">28110 - Algete&nbsp;</div></div>
+ 
+                      
+  <div class="etiqueta"><span>Province:</span>
+  <div class="valor">Madrid&nbsp;</div></div>
+ 
+   
+  <div class="etiqueta"><span>Country:</span>
+  <div class="valor">SPAIN&nbsp;</div></div>
+
+        
+  <div class="etiqueta"><span>Tel.:</span>
+  <div class="valor">+34 916 293 670&nbsp;</div></div>
+ 
+ 
+   
+  <div class="etiqueta"><span>Email:</span>
+  <div class="valor"><a href="mailto:shops@ras.es">shops@ras.es</a>&nbsp;</div></div>
+
+    
+  <div class="etiqueta"><span>Web:</span>
+  <div class="valor"><a href="http://www.ras.es">http://www.ras.es</a>&nbsp;
+</div></div>
+
+
+        
+ <div class="clearer"></div>
+</div>

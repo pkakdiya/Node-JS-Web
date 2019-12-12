@@ -1,0 +1,53 @@
+<h1>MUNDO CON ALMA</h1>
+
+
+
+<div class="informacion-fabricante">
+
+
+
+
+ 
+    
+  <div class="etiqueta"><span>Export Manager:</span>
+  <div class="valor">SRA. CRISTINA GASC&Oacute;N FERRET&nbsp;</div></div>
+
+
+    
+  <div class="etiqueta"><span>Products:</span>
+  <div class="valor">Fashion Jewellery&nbsp;</div></div>
+ 
+
+        
+  <div class="etiqueta"><span>International Fairs:</span>
+  <div class="valor">BIJORHCA&nbsp;</div></div>
+ 
+
+
+                      
+  <div class="etiqueta"><span>Province:</span>
+  <div class="valor">BARCELONA&nbsp;</div></div>
+ 
+   
+  <div class="etiqueta"><span>Country:</span>
+  <div class="valor">SPAIN&nbsp;</div></div>
+
+        
+  <div class="etiqueta"><span>Tel.:</span>
+  <div class="valor">+34 629251236&nbsp;</div></div>
+ 
+ 
+   
+  <div class="etiqueta"><span>Email:</span>
+  <div class="valor"><a href="mailto:info@mundoconalma.com">info@mundoconalma.com</a>&nbsp;</div></div>
+
+    
+  <div class="etiqueta"><span>Web:</span>
+  <div class="valor"><a href="http://www.mundoconalma.com">http://www.mundoconalma.com</a>&nbsp;
+</div></div>
+
+
+        
+ <div class="clearer"></div>
+</div>
+ 

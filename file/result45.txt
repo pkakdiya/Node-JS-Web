@@ -1,0 +1,58 @@
+<h1>ISABEL LAMADRID</h1>
+
+
+
+<div class="informacion-fabricante">
+
+
+
+
+ 
+    
+  <div class="etiqueta"><span>Export Manager:</span>
+  <div class="valor">Sra.Isabel Lamadrid&nbsp;</div></div>
+
+
+    
+  <div class="etiqueta"><span>Products:</span>
+  <div class="valor">Fashion Jewellery&nbsp;</div></div>
+ 
+
+        
+  <div class="etiqueta"><span>International Fairs:</span>
+  <div class="valor">BIJORHCA, JIS MIAMI&nbsp;</div></div>
+ 
+       
+  <div class="etiqueta"><span>Address:</span>
+  <div class="valor">C/Progres, 5-7-2&ordm;-3&ordf;&nbsp;</div></div>
+ 
+   
+  <div class="etiqueta"><span>City:</span>
+  <div class="valor">43700 - EL VENDRELL&nbsp;</div></div>
+ 
+                      
+  <div class="etiqueta"><span>Province:</span>
+  <div class="valor">TARRAGONA&nbsp;</div></div>
+ 
+   
+  <div class="etiqueta"><span>Country:</span>
+  <div class="valor">SPAIN&nbsp;</div></div>
+
+        
+  <div class="etiqueta"><span>Tel.:</span>
+  <div class="valor">+34 661 662 527&nbsp;</div></div>
+ 
+ 
+   
+  <div class="etiqueta"><span>Email:</span>
+  <div class="valor"><a href="mailto:isabel@isabellamadrid.com">isabel@isabellamadrid.com</a>&nbsp;</div></div>
+
+    
+  <div class="etiqueta"><span>Web:</span>
+  <div class="valor"><a href="http://www.isabellamadrid.com">http://www.isabellamadrid.com</a>&nbsp;
+</div></div>
+
+
+        
+ <div class="clearer"></div>
+</div>

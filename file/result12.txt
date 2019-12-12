@@ -1,0 +1,57 @@
+<h1>BIJUTERIA ROSANNA DLR S.L</h1>
+
+
+
+<div class="informacion-fabricante">
+
+<div class="image-logo"><img src="https://ferias.sebime.org/uploads/p-pqkfuu6r.jpg" /></div>
+
+
+
+  
+  <div class="etiqueta"><span>Manager:</span>
+  <div class="valor">SRA.ROSANNA DEVAHIVE DE LA RIVA&nbsp;</div></div>
+
+
+
+    
+  <div class="etiqueta"><span>Products:</span>
+  <div class="valor">Fashion jewellery&nbsp;</div></div>
+ 
+
+
+       
+  <div class="etiqueta"><span>Address:</span>
+  <div class="valor">GRAN VIA DE LES CORTS CATALANES 646, 4&ordm; 4&ordf;&nbsp;</div></div>
+ 
+   
+  <div class="etiqueta"><span>City:</span>
+  <div class="valor">08002 - Barcelona&nbsp;</div></div>
+ 
+                      
+  <div class="etiqueta"><span>Province:</span>
+  <div class="valor">Barcelona&nbsp;</div></div>
+ 
+   
+  <div class="etiqueta"><span>Country:</span>
+  <div class="valor">SPAIN&nbsp;</div></div>
+
+        
+  <div class="etiqueta"><span>Tel.:</span>
+  <div class="valor">+34 630736281&nbsp;</div></div>
+ 
+ 
+   
+  <div class="etiqueta"><span>Email:</span>
+  <div class="valor"><a href="mailto:info@rosannadlr.com">info@rosannadlr.com</a>&nbsp;</div></div>
+
+    
+  <div class="etiqueta"><span>Web:</span>
+  <div class="valor"><a href="https://www.rosannadlr.com/">https://www.rosannadlr.com/</a>&nbsp;
+</div></div>
+
+
+        
+ <div class="clearer"></div>
+</div>
+       

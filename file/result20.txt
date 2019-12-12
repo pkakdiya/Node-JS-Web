@@ -1,0 +1,66 @@
+<h1>CREACIONES MARIAN, S.C.</h1>
+
+
+
+<div class="informacion-fabricante">
+
+<div class="image-logo"><img src="https://ferias.sebime.org/uploads/p-pbozunxq.jpg" /></div>
+
+  <div class="etiqueta"><span>Foundation Date:</span>
+  <div class="valor">1990&nbsp;</div></div>
+
+  <div class="etiqueta"><span>Number of employees:</span>
+  <div class="valor">3&nbsp;</div></div>
+
+  
+  <div class="etiqueta"><span>Manager:</span>
+  <div class="valor">Sr. Fernando Seguer&nbsp;</div></div>
+
+    
+  <div class="etiqueta"><span>Export Manager:</span>
+  <div class="valor">Sra. Natalias&nbsp;</div></div>
+
+        
+  <div class="etiqueta"><span>Brand Names:</span>
+  <div class="valor">PROPIAS&nbsp;</div></div>
+
+ 
+
+        
+  <div class="etiqueta"><span>International Fairs:</span>
+  <div class="valor">BISUTEX&nbsp;</div></div>
+ 
+       
+  <div class="etiqueta"><span>Address:</span>
+  <div class="valor">Previsi&oacute;n Social, 18&nbsp;</div></div>
+ 
+   
+  <div class="etiqueta"><span>City:</span>
+  <div class="valor">5008 - Zaragoza&nbsp;</div></div>
+ 
+                      
+  <div class="etiqueta"><span>Province:</span>
+  <div class="valor">Zaragoza&nbsp;</div></div>
+ 
+   
+  <div class="etiqueta"><span>Country:</span>
+  <div class="valor">SPAIN&nbsp;</div></div>
+
+        
+  <div class="etiqueta"><span>Tel.:</span>
+  <div class="valor">+34 976 423 571&nbsp;</div></div>
+ 
+ 
+   
+  <div class="etiqueta"><span>Email:</span>
+  <div class="valor"><a href="mailto:info@creacionesmarian.com">info@creacionesmarian.com</a>&nbsp;</div></div>
+
+    
+  <div class="etiqueta"><span>Web:</span>
+  <div class="valor"><a href="http://www.creacionesmarian.com">http://www.creacionesmarian.com</a>&nbsp;
+</div></div>
+
+
+        
+ <div class="clearer"></div>
+</div>

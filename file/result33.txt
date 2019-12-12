@@ -1,0 +1,68 @@
+<h1>FABRICADOS HUERTA, S.L.</h1>
+
+
+
+<div class="informacion-fabricante">
+
+<div class="image-logo"><img src="https://ferias.sebime.org/uploads/p-mrvojm66.jpg" /></div>
+
+
+
+  
+  <div class="etiqueta"><span>Manager:</span>
+  <div class="valor">Sra.Laura Huerta&nbsp;</div></div>
+
+    
+  <div class="etiqueta"><span>Export Manager:</span>
+  <div class="valor">Sra.Laura Huerta&nbsp;</div></div>
+
+
+    
+  <div class="etiqueta"><span>Products:</span>
+  <div class="valor">Collection cases and displays, Bags, Packaging, Cases, Trays&nbsp;</div></div>
+ 
+       
+  <div class="etiqueta"><span>Materials:</span>
+  <div class="valor">Eco-leather, paperboard, plastic, antelina, wood, methacrylate, tissues&nbsp;</div></div>
+
+        
+  <div class="etiqueta"><span>International Fairs:</span>
+  <div class="valor">BISUTEX&nbsp;</div></div>
+ 
+       
+  <div class="etiqueta"><span>Address:</span>
+  <div class="valor">POLIGONO INDUSTRIAL  AMARGACENA NAVE, A N&ordm; 4&nbsp;</div></div>
+ 
+   
+  <div class="etiqueta"><span>City:</span>
+  <div class="valor">14013 - CORDOBA&nbsp;</div></div>
+ 
+                      
+  <div class="etiqueta"><span>Province:</span>
+  <div class="valor">Cordoba&nbsp;</div></div>
+ 
+   
+  <div class="etiqueta"><span>Country:</span>
+  <div class="valor">SPAIN&nbsp;</div></div>
+
+        
+  <div class="etiqueta"><span>Tel.:</span>
+  <div class="valor">+34 957421850&nbsp;</div></div>
+ 
+   
+  <div class="etiqueta"><span>Fax:</span>
+  <div class="valor">+34-957420787&nbsp;</div></div>
+ 
+   
+  <div class="etiqueta"><span>Email:</span>
+  <div class="valor"><a href="mailto:info@fabricadoshuerta.com">info@fabricadoshuerta.com</a>&nbsp;</div></div>
+
+    
+  <div class="etiqueta"><span>Web:</span>
+  <div class="valor"><a href="http://www.fabricadoshuerta.com">http://www.fabricadoshuerta.com</a>&nbsp;
+</div></div>
+
+
+        
+ <div class="clearer"></div>
+</div>

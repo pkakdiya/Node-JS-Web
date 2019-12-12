@@ -1,0 +1,72 @@
+<h1>MIR FORNITURAS,S.L.</h1>
+
+
+
+<div class="informacion-fabricante">
+
+<div class="image-logo"><img src="https://ferias.sebime.org/uploads/p-pr2sflvv.jpg" /></div>
+
+  <div class="etiqueta"><span>Foundation Date:</span>
+  <div class="valor">1961&nbsp;</div></div>
+
+  <div class="etiqueta"><span>Number of employees:</span>
+  <div class="valor">5&nbsp;</div></div>
+
+  
+  <div class="etiqueta"><span>Manager:</span>
+  <div class="valor">Sr. Luis Mir Pons&nbsp;</div></div>
+
+    
+  <div class="etiqueta"><span>Export Manager:</span>
+  <div class="valor">Sr.Luis Mir Pons&nbsp;</div></div>
+
+        
+  <div class="etiqueta"><span>Brand Names:</span>
+  <div class="valor">MIR&nbsp;</div></div>
+
+    
+  <div class="etiqueta"><span>Products:</span>
+  <div class="valor">Metal Components, Special orders on request, Fashion jewellery in general, Key rings, Men's fashion jewellery, Fashion Accessories, Hair Ornaments&nbsp;</div></div>
+ 
+       
+  <div class="etiqueta"><span>Materials:</span>
+  <div class="valor">Brass Wire, Stainless Steel, Silver&nbsp;</div></div>
+
+        
+  <div class="etiqueta"><span>International Fairs:</span>
+  <div class="valor">BISUTEX&nbsp;</div></div>
+ 
+       
+  <div class="etiqueta"><span>Address:</span>
+  <div class="valor">C/des Cap Negre, 28 - Poima&nbsp;</div></div>
+ 
+   
+  <div class="etiqueta"><span>City:</span>
+  <div class="valor">07714 - Mah&oacute;n - Menorca&nbsp;</div></div>
+ 
+                      
+  <div class="etiqueta"><span>Province:</span>
+  <div class="valor">Baleares&nbsp;</div></div>
+ 
+   
+  <div class="etiqueta"><span>Country:</span>
+  <div class="valor">SPAIN&nbsp;</div></div>
+
+        
+  <div class="etiqueta"><span>Tel.:</span>
+  <div class="valor">+34 971361951&nbsp;</div></div>
+ 
+ 
+   
+  <div class="etiqueta"><span>Email:</span>
+  <div class="valor"><a href="mailto:mir@mirfornituras.es">mir@mirfornituras.es</a>&nbsp;</div></div>
+
+    
+  <div class="etiqueta"><span>Web:</span>
+  <div class="valor"><a href="http://www.mirfornituras.es">http://www.mirfornituras.es</a>&nbsp;
+</div></div>
+
+
+        
+ <div class="clearer"></div>
+</div>

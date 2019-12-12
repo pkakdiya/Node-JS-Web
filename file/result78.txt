@@ -1,0 +1,56 @@
+<h1>OX GEMELOS</h1>
+
+
+
+<div class="informacion-fabricante">
+
+<div class="image-logo"><img src="https://ferias.sebime.org/uploads/p-pqkh7i4v.jpg" /></div>
+
+
+
+  
+  <div class="etiqueta"><span>Manager:</span>
+  <div class="valor">SRA. ARACELI PEREZ&nbsp;</div></div>
+
+
+
+    
+  <div class="etiqueta"><span>Products:</span>
+  <div class="valor">Men's Fashion Jewellery&nbsp;</div></div>
+ 
+
+
+       
+  <div class="etiqueta"><span>Address:</span>
+  <div class="valor">C/ DON RAMON DE LA CRUZ, 47 BAJO&nbsp;</div></div>
+ 
+   
+  <div class="etiqueta"><span>City:</span>
+  <div class="valor">28001 - Madrid&nbsp;</div></div>
+ 
+                      
+  <div class="etiqueta"><span>Province:</span>
+  <div class="valor">Madrid&nbsp;</div></div>
+ 
+   
+  <div class="etiqueta"><span>Country:</span>
+  <div class="valor">SPAIN&nbsp;</div></div>
+
+        
+  <div class="etiqueta"><span>Tel.:</span>
+  <div class="valor">+34 915919132&nbsp;</div></div>
+ 
+ 
+   
+  <div class="etiqueta"><span>Email:</span>
+  <div class="valor"><a href="mailto:info@oxgemelos.com">info@oxgemelos.com</a>&nbsp;</div></div>
+
+    
+  <div class="etiqueta"><span>Web:</span>
+  <div class="valor"><a href="http://www.oxgemelos.com">http://www.oxgemelos.com</a>&nbsp;
+</div></div>
+
+
+        
+ <div class="clearer"></div>
+</div>

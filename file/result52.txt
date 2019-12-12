@@ -1,0 +1,69 @@
+<h1>METALFOR, S.L.</h1>
+
+
+
+<div class="informacion-fabricante">
+
+<div class="image-logo"><img src="https://ferias.sebime.org/uploads/p-mrvpvda7.jpg" /></div>
+
+  <div class="etiqueta"><span>Foundation Date:</span>
+  <div class="valor">1956&nbsp;</div></div>
+
+  <div class="etiqueta"><span>Number of employees:</span>
+  <div class="valor">7&nbsp;</div></div>
+
+  
+  <div class="etiqueta"><span>Manager:</span>
+  <div class="valor">Mr. Manuel Hern&aacute;ndez&nbsp;</div></div>
+
+    
+  <div class="etiqueta"><span>Export Manager:</span>
+  <div class="valor">Mr. Manuel Hern&aacute;ndez&nbsp;</div></div>
+
+        
+  <div class="etiqueta"><span>Brand Names:</span>
+  <div class="valor">METALFOR, ORFOR&nbsp;</div></div>
+
+    
+  <div class="etiqueta"><span>Products:</span>
+  <div class="valor">Fancy Fashion  jewellery, Necklaces, Earrings, Rings, Pendants, Chains, Brooches, Bracelets and Fashion accessories&nbsp;</div></div>
+ 
+       
+  <div class="etiqueta"><span>Materials:</span>
+  <div class="valor">Gold-plated Pewter and Brass, Silver, Rhodium and Stones, Resin, Enamels, Crystal and others&nbsp;</div></div>
+
+
+       
+  <div class="etiqueta"><span>Address:</span>
+  <div class="valor">San Jorge, 15&nbsp;</div></div>
+ 
+   
+  <div class="etiqueta"><span>City:</span>
+  <div class="valor">07720 - Es Castell -  Menorca&nbsp;</div></div>
+ 
+                      
+  <div class="etiqueta"><span>Province:</span>
+  <div class="valor">Baleares&nbsp;</div></div>
+ 
+   
+  <div class="etiqueta"><span>Country:</span>
+  <div class="valor">SPAIN&nbsp;</div></div>
+
+        
+  <div class="etiqueta"><span>Tel.:</span>
+  <div class="valor">+34 971365347&nbsp;</div></div>
+ 
+ 
+   
+  <div class="etiqueta"><span>Email:</span>
+  <div class="valor"><a href="mailto:metalfor@infotelecom.es">metalfor@infotelecom.es</a>&nbsp;</div></div>
+
+    
+  <div class="etiqueta"><span>Web:</span>
+  <div class="valor"><a href="http://www.metalfor.net">http://www.metalfor.net</a>&nbsp;
+</div></div>
+
+
+        
+ <div class="clearer"></div>
+</div>

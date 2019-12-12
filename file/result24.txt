@@ -1,0 +1,70 @@
+<h1>DESTELLOS MEDITERRANEAN JEWELS</h1>
+
+
+
+<div class="informacion-fabricante">
+
+<div class="image-logo"><img src="https://ferias.sebime.org/uploads/p-pqkgrkpl.jpg" /></div>
+
+  <div class="etiqueta"><span>Foundation Date:</span>
+  <div class="valor">2015&nbsp;</div></div>
+
+  <div class="etiqueta"><span>Number of employees:</span>
+  <div class="valor">5&nbsp;</div></div>
+
+  
+  <div class="etiqueta"><span>Manager:</span>
+  <div class="valor">SR. LUIS ALBERTO HERNANDEZ ESCALANTE&nbsp;</div></div>
+
+
+        
+  <div class="etiqueta"><span>Brand Names:</span>
+  <div class="valor">DESTELLOS MEDITERRANEAN JEWELS, MARTIN TAYLOR&nbsp;</div></div>
+
+    
+  <div class="etiqueta"><span>Products:</span>
+  <div class="valor">Fashion jewellery manufactured in an artisanal way integrally in Spain with avant-garde and differentiating design, prepared with Swarovski crystals and first quality materials.&nbsp;</div></div>
+ 
+       
+  <div class="etiqueta"><span>Materials:</span>
+  <div class="valor">Brass, Silver 925, Swarovski Crystals, Pearls, Leather, Resins, Plated in Rhodium and Gold.&nbsp;</div></div>
+
+        
+  <div class="etiqueta"><span>International Fairs:</span>
+  <div class="valor">PREMIERE CLASSE, BIJORHCA&nbsp;</div></div>
+ 
+       
+  <div class="etiqueta"><span>Address:</span>
+  <div class="valor">CALLE SAN RAMON 74 BIS, 3 PLANTA&nbsp;</div></div>
+ 
+   
+  <div class="etiqueta"><span>City:</span>
+  <div class="valor">03560 - El Campello&nbsp;</div></div>
+ 
+                      
+  <div class="etiqueta"><span>Province:</span>
+  <div class="valor">Alicante&nbsp;</div></div>
+ 
+   
+  <div class="etiqueta"><span>Country:</span>
+  <div class="valor">SPAIN&nbsp;</div></div>
+
+        
+  <div class="etiqueta"><span>Tel.:</span>
+  <div class="valor">+34 675907929&nbsp;</div></div>
+ 
+ 
+   
+  <div class="etiqueta"><span>Email:</span>
+  <div class="valor"><a href="mailto:destellosluis@hotmail.com">destellosluis@hotmail.com</a>&nbsp;</div></div>
+
+    
+  <div class="etiqueta"><span>Web:</span>
+  <div class="valor"><a href="http://www.destellos.es">http://www.destellos.es</a>&nbsp;
+            <br><a href="https://www.facebook.com/destellosmediterraneanjewels/">https://www.facebook.com/destellosmediterraneanjewels/</a>
+</div></div>
+
+
+        
+ <div class="clearer"></div>
+</div>
